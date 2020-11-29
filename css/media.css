@@ -1,0 +1,388 @@
+@media(max-width:1920px){
+    .top-header ul li {
+       margin-left: 80px;
+    }
+    .contact-form p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+   
+}
+@media(max-width:1440px){
+    .top-header ul li {
+       margin-left: 80px;
+    }
+    .top-header ul li:last-child {
+        margin-left: 0 !important;
+    }
+    .contact-form p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+}
+@media(max-width:1199px){
+    .top-header ul li {
+        margin-left: 50px;
+     }  
+     .footer ul li i {
+        color: white;
+        margin: 0 35px;
+        font-size: 20px;
+        border: 2px solid #474747;
+        border-radius: 5px;
+        padding: 15px 20px;
+        transition: .4s all ease-in-out;
+    }
+}
+
+@media(max-width:1024px){
+    .single-work {
+        height: 229px;
+        background-color: #f35e59;
+        position: relative;
+    }
+    .img {
+        height: 229px;
+    }
+    .top-header ul li {
+        margin-left: 50px;
+     }
+   
+    .footer ul li i{
+        margin: 0 24px;
+    } 
+    .contact-form p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .card-body {
+        padding: 0px; 
+       
+    }
+ 
+
+}
+
+
+@media(max-width:991px){
+   .top-header ul li {
+        margin-left: 5px !important;
+    }
+    .img {
+        height: 170px;
+       
+    }
+    .single-work {
+        height: 170px;
+
+    }
+    .btn-custom {
+        margin-left: 0px;
+    }
+    .footer ul li i {
+        margin: 0 10px;
+    }
+   
+    .top-header ul li:last-child {
+        margin-left: 0 !important;
+    }
+    .card-body {
+        padding: 0px; 
+       
+    }
+    .work-content h3 {
+        font-size: 22px;
+    }
+}
+ 
+
+@media(max-width:767px){
+    .bridegeoff{
+        display: none; 
+       }
+    .hdnmedia{
+        display: none;
+    }
+    .hidden{
+        display: contents;
+    }
+    .nowandnever{
+        display: contents;
+    }
+   
+   
+
+ 
+    .approach-content h4 {
+        margin-left: 15px;
+       
+    }
+    .approach-content p {
+        margin-left: 15px;
+       
+    }
+    .approach-content-left h4{
+        padding-right: 15px;
+    }
+    .approach-content-left p{
+        padding-right: 15px;
+        margin-bottom: 55px;
+    }
+    .step, .step-left {
+        top: -43px;
+        left: 50%;
+       transform: translatex(-50%);
+    }
+    .single-work{
+        margin: 2px 0;
+    }
+    .img{
+        margin: 2px 0;
+    }
+    .single-work {
+        height: 252px;
+        width: 252px;
+    }
+    .img {
+        height: 252px;
+        width: 252px;
+    }
+    .btn-custom {
+        margin-left: 0px;
+    }
+    .contact-form p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    
+    
+
+
+.card-body {
+    padding: 0px;
+   
+}
+  
+}
+   
+
+
+@media(max-width:425px){
+    .form {
+        width: 98%;
+    }
+  
+    .step, .step-left {
+        top: -43px;
+        left: 50%;
+       transform: translatex(-50%);
+    }
+    .approach-content {
+        text-align: center;
+        padding: 10px 5px;
+    }
+    .approach-content p {
+        margin-left: 0px;
+    }
+    .approach-content h4 {
+        margin-left:0px;
+    }
+    .approach-content-left{
+        text-align: center !important;
+    }
+    .approach-content-left h4 {
+        padding-right: 0px;
+        padding-top: 10px;
+    }
+    .approach-content-left p {
+        padding-right: 0px;
+        margin-bottom: 60px;
+    }
+    .hg {
+        min-height: 50vh;
+    }
+    .banner h1 {
+       font-size: 35px;
+       }
+    .banner p{
+        color: white;
+        font-size: 16px;
+    }
+    .btn-custom-two {
+        font-size: 16px;
+        padding: 8px 25px;
+    }
+    .single-work{
+        height: 195px;
+        width: 195px;
+    }
+    .img {
+        height: 195px;
+        width: 195px;
+    }
+    .heading h1 {
+       
+        font-size: 35px;
+    }
+    .heading p {
+      font-size: 16px;
+      
+    }
+    .h3, h3 {
+        font-size: 23px;
+    }
+    .work h1 {
+        font-size: 35px;
+    }
+    .heading-work p {
+        font-size: 16px;
+        
+    }
+    .contact-form h1 {
+        font-size: 35px;
+    }
+    .touch h3 {
+        font-size: 35px;
+    }
+    .footer ul li i {
+        margin: 0 0px; 
+        font-size: 14px;
+        padding: 11px 14px;
+    }
+    .btn-custom-3 {
+        font-size: 16px;
+        padding: 8px 25px;
+        
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+    .single-work{
+        margin: 2px 0px;
+    }
+    .img{
+        margin: 2px 0px;
+    }
+    .contact-form p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .card p {
+        margin-top: 20px;
+        padding: 0 10px;
+    }
+}
+
+@media(max-width:375px){
+    .single-work{
+        height: 170px;
+        width: 170px;
+    }
+    .img {
+        height: 170px;
+        width: 170px;
+    }
+
+    .navbar-brand{
+        width: 70%;
+    }
+    .navbar-brand img{
+        width:70%;
+    }
+      .top-header ul li {
+        font-size: 14px;
+        }
+    .foot-p p {
+       
+            font-weight: 300;
+        }
+        .footer ul li i {
+            margin: 0 0px;
+            font-size: 14px;
+            padding: 10px 14px;
+        }
+        .banner h1 {
+            font-size: 30px;
+            }
+            .heading h1 {
+           
+                font-size: 30px;
+            }
+            .work h1 {
+                font-size: 30px;
+            }
+            .contact-form h1 {
+                font-size: 25px;
+            }
+            .touch h3 {
+                font-size: 30px;
+            }
+            .single-work{
+                margin: 2px 0;
+            }
+            .img{
+                margin: 2px 0;
+            }
+            .card-body {
+                padding: 0px;
+              
+            }
+            .contact-form p {
+                font-weight: 400;
+                font-size: 16px;
+            }
+            .card p {
+                margin-top: 20px  20px !important;
+                padding: 0px 0px !important;
+            }
+            
+           
+
+
+}
+@media(max-width:320px){
+    .form {
+        width: 95% !important;
+        margin: auto;
+    }
+    .single-work{
+        height: 142px;
+        width: 142px;
+    }
+    .img {
+        height: 142px;
+        width: 142px;
+        
+    }
+    .single-work{
+        margin: 2px 0;
+    }
+    .img{
+        margin: 2px 0;
+    }
+    .contact-form p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+   
+      .h3, h3 {
+          font-size: 18px;
+      }
+      .work-content p {
+        font-size: 14px;
+    }
+    .footer ul li i {
+        margin: 0 1px;
+        font-size: 14px;
+        padding: 9px 10px;
+    }
+    .work-content h3 {
+        font-size: 20px;
+    }
+    .work-content img {
+        width: 24px;
+    }
+   
+
+
+}
